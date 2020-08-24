@@ -51,6 +51,7 @@
 		0D79D5E22397CB3600DD3E14 /* FPNOBJCCountryKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D79D5DC2397CB3600DD3E14 /* FPNOBJCCountryKey.swift */; };
 		0D79D5E32397CB3600DD3E14 /* FPNUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D79D5DD2397CB3600DD3E14 /* FPNUtils.swift */; };
 		0DA9CA0B2293E39500723B96 /* FlagPhoneNumber.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D8C7134229296D40026E0C7 /* FlagPhoneNumber.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B77B2E0424F4621B0043A0E5 /* UnderLineTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77B2E0324F4621B0043A0E5 /* UnderLineTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -100,6 +101,7 @@
 		0D8C7134229296D40026E0C7 /* FlagPhoneNumber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FlagPhoneNumber.h; sourceTree = "<group>"; };
 		0D8C7135229296D40026E0C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0DF48B3922917047006AB39C /* FlagPhoneNumber.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FlagPhoneNumber.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B77B2E0324F4621B0043A0E5 /* UnderLineTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnderLineTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -213,6 +215,7 @@
 				0D79D5CB2397CAAA00DD3E14 /* FPNCountryListViewController.swift */,
 				0D79D5C52397CAA900DD3E14 /* FPNCountryRepository.swift */,
 				0D192FFF2293078C002583B1 /* FPNTextField.swift */,
+				B77B2E0324F4621B0043A0E5 /* UnderLineTextField.swift */,
 				0D192FF62293078B002583B1 /* FPNCountryPicker */,
 				0D79D5D72397CB3600DD3E14 /* Helpers */,
 				0D192FD42293078B002583B1 /* libPhoneNumber */,
@@ -341,6 +344,7 @@
 				0D19300E2293078C002583B1 /* NBNumberFormat.m in Sources */,
 				0D1930122293078C002583B1 /* NBPhoneNumber.m in Sources */,
 				0D19300B2293078C002583B1 /* NBRegExMatcher.m in Sources */,
+				B77B2E0424F4621B0043A0E5 /* UnderLineTextField.swift in Sources */,
 				0D19301C2293078C002583B1 /* NBPhoneNumberDefines.m in Sources */,
 				0D79D5CD2397CAAA00DD3E14 /* FPNCountryRepository.swift in Sources */,
 				0D79D5DE2397CB3600DD3E14 /* FPNFormat.swift in Sources */,

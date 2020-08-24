@@ -8,7 +8,7 @@
 
 import UIKit
 
-open class FPNTextField: UnderlineTextField {
+open class FPNTextField: UnderLineTextField {
 
 	/// The size of the flag button
 	@objc open var flagButtonSize: CGSize = CGSize(width: 32, height: 32) {
