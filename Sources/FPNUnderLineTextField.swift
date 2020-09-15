@@ -8,7 +8,7 @@
 
 import UIKit
 
-open class UnderLineTextField: UITextField , UITextFieldDelegate {
+open class FPNUnderLineTextField: UITextField , UITextFieldDelegate {
 
     let border = CALayer()
 
